@@ -1,0 +1,11 @@
+﻿  Object.cpp
+  Source.cpp
+C:\Users\hp\source\repos\OOP 3.3E\OOP 3.3E\Triangle.h(3,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\hp\source\repos\OOP 3.3E\OOP 3.3E\Source.cpp(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  Triad.cpp
+C:\Users\hp\source\repos\OOP 3.3E\OOP 3.3E\Triad.cpp(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  Triangle.cpp
+C:\Users\hp\source\repos\OOP 3.3E\OOP 3.3E\Triangle.h(3,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\hp\source\repos\OOP 3.3E\OOP 3.3E\Triangle.cpp(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  Создание кода...
+  OOP 3.3E.vcxproj -> C:\Users\hp\source\repos\OOP 3.3E\x64\Debug\OOP 3.3E.exe
